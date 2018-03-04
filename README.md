@@ -5,4 +5,4 @@ redwine. html -> The output project report file with all the plots and analysis 
 wineQualityReds.csv -> data file 
 Redirecting.txt -> text file describing briefly about the dataset.
 
-In this project, I have analyzed the variables influencing the quality of red wine. The data set has 13 variables and 1599 observations. In my analysis I have removed the first variable which is a unique identification number. The output variable is quality and I analyzed the features influencing the quality of red wine. The dataset is in the file named redWineQuality.csv.
+In this project, I have analyzed the variables influencing the quality of the red wine. The dataset has 13 variables and 1599 observations. In my analysis, I have removed the first variable which is a unique identification number. The output variable is quality and I analyzed the features influencing the quality of the red wine. The dataset is in the file named redWineQuality.csv.
